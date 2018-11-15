@@ -1,7 +1,7 @@
 # iahl-adjusted-standings
 A python notebook that:
 
-* connects to the Yahoo API and fetch the current standings for IAHL
+* connects to the Yahoo API and fetches the current standings for IAHL
 * adjusts the standings based on games played
 * calculates rotisserie scores for the adjusted numbers
 * calculates a normalized score on the adjusted standings
