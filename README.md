@@ -9,7 +9,7 @@ A python notebook that:
 ## Prerequisites
 
 * Python 3 environment with virtualenvironments
-* App keys at yahoo
+* App keys from yahoo
 
 ## How-to
 
