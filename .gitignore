@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except..
+!.gitignore
+!requirements.txt
+!api-test.ipybnb
